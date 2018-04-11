@@ -1,0 +1,69 @@
+.block, .block-1  {
+  background: #73797f;
+}
+
+.navbar-brand {
+  padding: 15px 60px;
+  background: #808080;
+  color: #fff !important;
+  font-size: 40px !important;
+  margin-top: 25px;
+}
+
+li.nav-item {
+  margin-left: 15px;
+}
+
+a.nav-link {
+  color: #fff !important;
+}
+
+a.nav-link:hover {
+  background: #000;
+}
+
+.fas {
+  margin-left: 25px;
+  color: #fff;
+  margin-top: 10px;
+  margin-right: 40px;
+}
+
+h1 {
+  color: #fff;
+  margin: 90px 0 35px 20px;
+}
+
+h6 {
+  color: #fff;
+  margin-left: 20px;
+  line-height: 2;
+  margin-bottom: 0;
+}
+
+.col {
+  background: #323335;
+  margin: 15px;
+}
+
+.col:first-child {
+  margin-left: 35px;
+}
+
+.col:last-child {
+  margin-right: 35px;
+}
+
+p {
+  color: #fff;
+}
+
+.block-1 {
+  padding-bottom: 45px;
+}
+
+@media (max-width: 992px) {
+  .col {
+    margin: 35px;
+  }
+}
