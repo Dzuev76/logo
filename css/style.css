@@ -43,7 +43,8 @@ h6 {
 
 .col {
   background: #323335;
-  margin: 15px;
+  margin: 50px 15px 15px 15px;
+  padding: 30px !important;
 }
 
 .col:first-child {
@@ -62,7 +63,7 @@ p {
   padding-bottom: 45px;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 1120px) {
   .col {
     margin: 35px;
   }
